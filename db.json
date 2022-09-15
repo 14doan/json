@@ -1,5 +1,13 @@
 {
     "sentences": [
+
+{
+          "id":12 ,
+          "english": "can i have/get?",
+          "thai":"kor ..(add item).. nòi",
+          "note":"noì is to soften the sentence, kor: can i have"
+        },
+
         {
           "id": 1,
           "english": "Hello",
